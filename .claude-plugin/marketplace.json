@@ -1,0 +1,7 @@
+{
+  "name": "andrii-mods",
+  "owner": { "name": "AndriiDm91" },
+  "plugins": [
+    { "name": "limit-bar", "source": "./limit-bar", "description": "5h and weekly limit bar above the prompt" }
+  ]
+}
